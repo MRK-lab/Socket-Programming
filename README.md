@@ -1,6 +1,6 @@
 # Socket-Programming
 encrypted socket programming
-Projenin Detaylı Anlatımı= 
+Projenin Detaylı Anlatımı=  https://www.teknolocked.com/2023/03/25/soket-programlama-ile-mesajlasma/
 
 Programın özetini şu şekilde açıklayabilirim:
 Örnek soket programını Python dili ile yazmış olup programın amacı soket yapısını kullanarak kişiler arası güvenli mesajlaşma sağlamak. Aynı zamanda projenin daha efektif bir hale getirebilmek adına bazı modüller eklendi: Sesli mesajlaşma, mesajı sesli dinleme, kişiye özel renk kodu, mesaj alma ve gönderme sesi. 
